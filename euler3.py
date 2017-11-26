@@ -6,7 +6,7 @@ import math
 
 def largest_prime_factors(num):
     """
-    Prints the largest prime factor of 600851475143
+    Prints the largest prime factor of given number
     """
     maximum = 1
     cur = math.floor(math.sqrt(num))
@@ -34,6 +34,6 @@ def is_prime(num):
         if num % i == 0 or num % (i + 2) == 0:
             return False
         i += 6
-    return True
+    ereturn Tru
 
 largest_prime_factors(600851475143)
