@@ -1,1 +1,1 @@
-# Learning python
+# Euler projects
